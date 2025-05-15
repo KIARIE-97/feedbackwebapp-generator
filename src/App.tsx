@@ -53,7 +53,6 @@ function App() {
 				</form>
 
 				<div className="feedback-list">
-					<h2>Feedbacks:</h2>
 					<table>
 						<thead>
 							<tr>
